@@ -1,0 +1,61 @@
+Timestamp,What is your current CGPA?,1.How many programming languages do you know?,2.Which is your domain programming language?,3. Approximately how many coding problems have you solved in total (LeetCode + CodeChef + Codility + HackerRank combined)?,4. How many hackathons/coding fests have you participated in?,5.Have you completed at least one internship?,"6. If yes, what was the mode of your internship? ",1.Are you part of any technical club in college?,"2. If yes, which club are you part of?",3. Do you feel club activities have helped your placement preparation?,1.How would you rate your aptitude/quantitative knowledge level?  ,2. How many mock interviews have you attended so far?,3. How confident are you in your communication/soft skills? ,1. Which companies are you interested in? ,2. How confident are you about getting placed in your dream company?,3.What is your expected salary package (in ₹ LPA)?  ,4. Which domain are you expecting to get placed in? ,5. How would you rate your current resume quality/readiness? 
+25-08-2026 07:27,8.0 - 9.0,2,C/C++,38,2,Yes,Online,Yes,FLC,Somewhat,Moderate,3,Very confident,"Infosys, TCS, Accenture, Amazon, Microsoft, HP/HPE",Moderate,10 - 15 LPA,Core CS (OS/DBMS/CN),Good
+25-08-2026 16:41,7.0 - 8.0,"C,python, java",C/C++,,,,,Yes,Wiki Club,"Yes, a lot",Moderate,,,"TCS, Amazon, Microsoft, HP/HPE",Moderate,6 - 10 LPA,Not decided,Good
+25-08-2026 17:20,9.0 - 10.0,3,,10,0,No,Not Apllicable,No,Not Applicable,Not applicable,Weak,Zero ,Moderate,"Amazon, Microsoft",Moderate,10 - 15 LPA,Core CS (OS/DBMS/CN),Average
+25-08-2026 17:20,9.0 - 10.0,"C,CPP,Java,Python,JS,react Js,html,css,perl,shell,SQL",C/C++,300+,10+,Yes,Online,Yes,"ACM, FLC, Other","Yes, a lot",Moderate,02-Mar,Very confident,"Amazon, Microsoft, HP/HPE",Moderate,10 - 15 LPA,Not decided,Good
+25-08-2026 17:58,7.0 - 8.0,Python,Python,50-60,None,Yes,Offline,No,Not Applicable,Not applicable,Moderate,None,Moderate,Infosys,Moderate,6 - 10 LPA,Web Development,Needs improvement
+25-08-2026 18:02,7.0 - 8.0,1,C/C++,3,0,Yes,Offline,No,Not Applicable,Not applicable,Moderate,1,Moderate,"Infosys, Amazon, Microsoft",Moderate,10 - 15 LPA,Data Science,Needs improvement
+25-08-2026 18:06,8.0 - 9.0,2,Java,50 to 60,1,Yes,Hybrid,Yes,"CSI, FLC, HackerEarth, IEEE",Somewhat,Moderate,None,Moderate,"Infosys, TCS, Amazon, Microsoft",Not sure,10 - 15 LPA,Development,Good
+25-08-2026 18:07,7.0 - 8.0,3,Python,25,Nope,Yes,Online,No,,Not applicable,Moderate,1,Moderate,I'll not tell u guys,Moderate,6 - 10 LPA,Development,Good
+25-08-2026 18:10,7.0 - 8.0,5,Java,20,-,Yes,Offline,No,,Somewhat,Moderate,-,Moderate,"Infosys, TCS, Accenture, Amazon, Microsoft, HP/HPE, ",Moderate,6 - 10 LPA,Web Development,Good
+25-08-2026 18:24,8.0 - 9.0,Hardly 1,Java,0,2 hackathons ,Yes,Online,Yes,CSI,Somewhat,Not practiced yet,I have done mock interviews for 70+ seniors ,Very confident,,Very confident,10 - 15 LPA,Managerial roles,Good
+25-08-2026 19:37,7.0 - 8.0,4,Python,10,None,Yes,Online,Yes,CSI,"Yes, a lot",Strong,None,Moderate,"Infosys, TCS, Accenture, Amazon, Microsoft, HP/HPE",Very confident,6 - 10 LPA,Not decided,Good
+26-08-2026 07:10,8.0 - 9.0,Java python c cpp html,Java,30,2,Yes,Online,Yes,"FLC, HackerEarth",Not much,Moderate,0,Very confident,"Accenture, Amazon, Microsoft, HP/HPE",Moderate,Above 15 LPA,Development,Average
+26-08-2026 07:20,9.0 - 10.0,3,C/C++,60,0,No,Not Apllicable,Yes,HackerEarth,Not much,Moderate,0,Moderate,"Amazon, Microsoft",Moderate,Above 15 LPA,Core CS (OS/DBMS/CN),Needs improvement
+27-08-2026 16:10,9.0 - 10.0,6,C/C++,50,10,Yes,Online,Yes,"ACM, CSI","Yes, a lot",Moderate,1,Very confident,"Microsoft, HP/HPE",Moderate,10 - 15 LPA,Development,Good
+01-09-2026 14:19,9.0 - 10.0,3,C/C++,2,0,Yes,Online,Yes,"FLC, HackerEarth","Yes, a lot",Moderate,None,Moderate,"Infosys, TCS, Microsoft",Moderate,Above 15 LPA,Data Science,Good
+01-09-2026 14:20,9.0 - 10.0,2,Python,1,,No,Online,Yes,CSI,"Yes, a lot",Strong,1,Very confident,Infosys,Very confident,Below 4 LPA,Data Science,Excellent
+01-09-2026 14:21,9.0 - 10.0,5,Python,2,Yes,Yes,Online,Yes,ACM,"Yes, a lot",Strong,1,Very confident,Infosys,,Below 4 LPA,Development,Average
+01-09-2026 14:22,9.0 - 10.0,"C+,java, python ",Python,Codechief,1,No,Online,Yes,FLC,Somewhat,Moderate,2,Moderate,Amazon,Moderate,6 - 10 LPA,Web Development,Good
+01-09-2026 14:27,9.0 - 10.0,"C,c++, python ",C/C++,10,1,Yes,Offline,Yes,"FLC, HackerEarth, IEEE",Somewhat,Moderate,1,Moderate,"Infosys, Amazon, Microsoft, HP/HPE",Moderate,6 - 10 LPA,Not decided,Needs improvement
+01-09-2026 14:28,6.0 - 7.0,2,C/C++,2,No,Yes,Online,Yes,ACM,"Yes, a lot",Moderate,2,Very confident,Infosys,Moderate,Below 4 LPA,Development,Excellent
+01-09-2026 14:54,8.0 - 9.0,"Python ,c,c++,java",C/C++,Leetcode ,No,No,,Yes,FLC,"Yes, a lot",Moderate,No,Moderate,Amazon,Very confident,4 - 6 LPA,Core CS (OS/DBMS/CN),
+01-09-2026 15:04,9.0 - 10.0,,C/C++,None,Nope,Yes,Offline,Yes,IEEE,"Yes, a lot",Strong,5,Moderate,Microsoft,Not sure,Above 15 LPA,Not decided,Needs improvement
+01-09-2026 15:06,7.0 - 8.0,2,C/C++,0,0,Yes,Offline,No,,Not applicable,Moderate,0,Moderate,Amazon,Moderate,Above 15 LPA,Data Science,Average
+01-09-2026 15:48,8.0 - 9.0,3,Python,,,Yes,Online,Yes,ACM,Somewhat,Weak,1,Low confidence,Amazon,Moderate,10 - 15 LPA,Web Development,Average
+01-09-2026 16:59,8.0 - 9.0,2,Python,1,1,Yes,Offline,Yes,Other,"Yes, a lot",Moderate,0,Moderate,"Amazon, HP/HPE",Very confident,Above 15 LPA,Web Development,Average
+01-09-2026 17:58,7.0 - 8.0,,,,,,,,,,,,,,,,,
+01-09-2026 18:45,7.0 - 8.0,3,C/C++,10,0,No,,No,Not Applicable,Not applicable,Weak,None,Very confident,"Infosys, TCS, Accenture, Microsoft, HP/HPE",Low,10 - 15 LPA,Not decided,Average
+01-09-2026 21:30,8.0 - 9.0,"C,C++, python,",C/C++,Leetcode,Not yet,No,Online,No,Not Applicable,Somewhat,Moderate,One,Very confident,"Infosys, TCS, Amazon, Microsoft",Very confident,6 - 10 LPA,Data Science,Good
+10-09-2026 10:20,8.0 - 9.0,4,C/C++,20,0,No,Not Apllicable,Yes,"FLC, HackerEarth",Somewhat,Moderate,No given yet,Moderate,"Accenture, Amazon, Microsoft, HP/HPE",Moderate,Above 15 LPA,Web Development,Good
+10-09-2026 18:27,9.0 - 10.0,3,C/C++,Maybe around 25-30,None ,No,Offline,Yes,ACM,Somewhat,Moderate,02-Mar,Moderate,"Infosys, TCS, Accenture, Amazon, Microsoft, HP/HPE",Moderate,6 - 10 LPA,Data Science,Good
+10-09-2026 20:00,9.0 - 10.0,4,C/C++,70,1,No,Not Apllicable,Yes,HackerEarth,"Yes, a lot",Moderate,0,Moderate,"Amazon, Microsoft",Moderate,Above 15 LPA,Core CS (OS/DBMS/CN),Average
+12-09-2026 11:53,7.0 - 8.0,"Java, python,c,c++",Python,Idk ,None,Yes,Offline,No,,Somewhat,Moderate,Few,Very confident,"TCS, Amazon, Microsoft, HP/HPE",Moderate,10 - 15 LPA,Web Development,Good
+12-09-2026 11:54,8.0 - 9.0,3,C/C++,4,1,Yes,Offline,Yes,ACM,Somewhat,Moderate,1,Moderate,"Infosys, TCS, Accenture, Amazon, Microsoft, HP/HPE",Moderate,Above 15 LPA,Not decided,Average
+12-09-2026 11:55,7.0 - 8.0,5,Java,3,0,Yes,Offline,,Wiki Club,Somewhat,Moderate,0,Moderate,"Infosys, TCS, Accenture, Amazon, Microsoft, HP/HPE",Moderate,6 - 10 LPA,Web Development,Excellent
+12-09-2026 12:06,9.0 - 10.0,Maybe 2-3,Python,0,None yet,Yes,Offline,Yes,FLC,Not much,Not practiced yet,0,Moderate,HP/HPE,Moderate,10 - 15 LPA,AI,Needs improvement
+12-09-2026 12:10,8.0 - 9.0,"C ,python and java",Python,04-May,None,Yes,Offline,No,,Not applicable,Weak,None,Low confidence,"Infosys, ",Moderate,10 - 15 LPA,Not decided,Needs improvement
+12-09-2026 12:15,9.0 - 10.0,"Python , c , Java , html ",Not sure,,02-Mar,No,Not Apllicable,No,Not Applicable,Somewhat,Moderate,None,Moderate,Not yet decided,Moderate,10 - 15 LPA,Not decided,Needs improvement
+12-09-2026 13:40,7.0 - 8.0,02-Mar,Java,Not yet started,,Yes,Offline,Yes,ACM,"Yes, a lot",Moderate,,Very confident,"Infosys, TCS, Accenture, Amazon, Microsoft, HP/HPE",,10 - 15 LPA,Data Science,Good
+20-09-2026 18:50,9.0 - 10.0,Bsbz,C/C++,Hackerranl,2,Yes,Hybrid,Yes,HackerEarth,Not much,Moderate,Hdhs,Moderate,TCS,Very confident,4 - 6 LPA,Core CS (OS/DBMS/CN),Good
+22-09-2026 12:40,8.0 - 9.0,One ,Python,Nothing yet ,-,No,Not Apllicable,No,Not Applicable,Somewhat,Weak,Zero,Moderate,Microsoft,Moderate,Above 15 LPA,Not decided,Average
+22-09-2026 13:04,7.0 - 8.0,3,C/C++,2,0,Yes,Offline,No,Not Applicable,Not applicable,Weak,0,Moderate,"Infosys, HP/HPE",Moderate,10 - 15 LPA,Not decided,Needs improvement
+22-09-2026 13:08,8.0 - 9.0,3,C/C++,1,0,Yes,Offline,Yes,ACM,"Yes, a lot",Moderate,0,Moderate,HP/HPE,Low,6 - 10 LPA,Web Development,Good
+22-09-2026 14:01,7.0 - 8.0,2,Python,1,1,Yes,Online,Yes,FLC,Not much,Not practiced yet,1,Moderate,"Accenture, Amazon, Microsoft, HP/HPE",Low,Above 15 LPA,Development,Needs improvement
+28-09-2026 20:53,7.0 - 8.0,,,,,,,,,,,,,,,,,
+28-09-2026 23:19,6.0 - 7.0,"C++,C,html",C/C++,20,Not yet,Yes,Hybrid,No,Not Applicable,Not applicable,Moderate,Not yet,Moderate,"Infosys, Accenture, Amazon",Moderate,6 - 10 LPA,Core CS (OS/DBMS/CN),Good
+29-09-2026 19:48,,3,C/C++,Many ,0,Yes,Offline,No,,,Moderate,,Moderate,"Infosys, TCS, Accenture, Amazon, Microsoft, HP/HPE",Very confident,Above 15 LPA,Development,Good
+29-09-2026 19:53,9.0 - 10.0,"Python,C,HTML,java(as per syllabus )",No idea,12,2,No,Not Apllicable,No,Not Applicable,Somewhat,Moderate,None,Very confident,"TCS, Microsoft, HP/HPE",Moderate,10 - 15 LPA,Frontend dev/product management/web dev,Average
+29-09-2026 20:00,7.0 - 8.0,5,C/C++,0,0,Yes,Online,Yes,Wiki Club,Not applicable,Moderate,1,Very confident,"Infosys, TCS, Accenture, Amazon, Microsoft, HP/HPE",Moderate,6 - 10 LPA,Web Development,Good
+29-09-2026 20:09,7.0 - 8.0,C,C/C++,None,None,Yes,Offline,Yes,HackerEarth,"Yes, a lot",Moderate,Nope ,Moderate,Amazon,Very confident,Below 4 LPA,Development,Excellent
+29-09-2026 20:15,9.0 - 10.0,3,Python,,,,,,,,,,,,,,,
+29-09-2026 20:17,9.0 - 10.0,3,C/C++,0,0,Yes,Online,Yes,"FLC, HackerEarth","Yes, a lot",Moderate,None,Moderate,"Infosys, TCS, Amazon, Microsoft",Moderate,Above 15 LPA,Development,Average
+29-09-2026 20:55,9.0 - 10.0,3,C/C++,2,0,Yes,Offline,Yes,Other,"Yes, a lot",Weak,0,Low confidence,"Infosys, TCS, Accenture, Amazon, Microsoft, HP/HPE",Low,10 - 15 LPA,Not decided,Needs improvement
+29-09-2026 22:11,8.0 - 9.0,3,C/C++,10,3,No,,Yes,ACM,Somewhat,Not practiced yet,1,Moderate,"Accenture, Amazon, Microsoft, HP/HPE",Moderate,10 - 15 LPA,Data Science,Needs improvement
+30-09-2026 07:21,8.0 - 9.0,3,C/C++,Leetcode,0,Yes,Online,No,Not Applicable,Not much,Moderate,2,Very confident,"Infosys, TCS, Accenture, Amazon, Microsoft, HP/HPE",Moderate,Above 15 LPA,Data Science,Good
+30-09-2026 07:24,8.0 - 9.0,2,Python,5,0,No,Offline,Yes,HackerEarth,Somewhat,Moderate,0,Very confident,Microsoft,Not sure,Above 15 LPA,Testing,Needs improvement
+30-09-2026 08:01,8.0 - 9.0,5,Python,2,2,Yes,Online,No,Not Applicable,Somewhat,Moderate,2,Moderate,"Infosys, Microsoft",Moderate,10 - 15 LPA,Web Development,Good
+02-10-2026 04:00,9.0 - 10.0,4,C/C++,0,4,Yes,Offline,No,Not Applicable,Not applicable,Moderate,0,Very confident,"Amazon, Microsoft",Very confident,Above 15 LPA,Core CS (OS/DBMS/CN),Needs improvement
+24-10-2026 08:36,9.0 - 10.0,4,Java,100,2,No,Not Apllicable,Yes,HackerEarth,Somewhat,Moderate,0,Moderate,"Amazon, Microsoft, HP/HPE",Moderate,Above 15 LPA,Core CS (OS/DBMS/CN),Average
+24-10-2026 08:37,9.0 - 10.0,2,C/C++,50,1,No,Not Apllicable,No,Not Applicable,Not much,Strong,0,Moderate,"Infosys, TCS, Accenture, Amazon, Microsoft, HP/HPE",Moderate,Above 15 LPA,Development,Average
+24-10-2026 09:13,9.0 - 10.0,7-8+,C/C++,300+,10+,Yes,Online,Yes,"ACM, FLC","Yes, a lot",Moderate,2,Very confident,Jio,Moderate,Above 15 LPA,Call center,Needs improvement
